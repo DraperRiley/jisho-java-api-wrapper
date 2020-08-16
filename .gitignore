@@ -1,3 +1,4 @@
 /bin/
-driver.java
+*.class
 /src/driver.java
+/target/
