@@ -1,4 +1,9 @@
-/bin/
 *.class
+.settings/
+bin/
+target/
 /src/driver.java
-/target/
+
+.classpath
+.project
+
