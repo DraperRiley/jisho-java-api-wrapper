@@ -1,5 +1,5 @@
 # jisho-java-api-wrapper
- A simple API wrapper for the JP/ENG dictionary Jisho.org implemented using Google's GSON library
+ A simple API wrapper written in Java for the JP/ENG dictionary Jisho.org implemented using Google's GSON library
 
  ## Usage
  By constructing a Jisho object one can perfrom searches and return all necessary data
@@ -21,3 +21,7 @@ var.getJlpt(i,j);
 //i < var.getNumEntries()
 //j < var.getJlptSize()
 ```
+
+##Other
+This project was an attempt at expanding my skillset, actual usability is questionable, however, if you do end
+up using this library, please let me know how it goes.

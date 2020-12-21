@@ -15,7 +15,7 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParseException;
 
-//TODO: Complete JAVADOC
+//TODO: I want to change how nested classes are stored, perhaps it would be better to perform a large parse upon searching rather than segmenting parses when information is requested
 
 /**
  *
